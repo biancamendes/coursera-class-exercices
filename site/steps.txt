@@ -1,4 +1,8 @@
-git status
-git add .
-git commit -m "Message"
-git push
+Git Comands
+    git status
+    git add .
+    git commit -m "Message"
+    git push
+
+Browser Sync Comands
+    browser-sync start --server --directory --files "*"
